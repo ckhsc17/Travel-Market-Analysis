@@ -10,6 +10,8 @@ With the increasing popularity of group travel among college students, understan
 ## Methodology
 
 Data Collection: Surveys and market research
+
 Statistical Analysis: Regression analysis, clustering, and hypothesis testing
+
 Visualization: Graphical representation of trends and insights
 
